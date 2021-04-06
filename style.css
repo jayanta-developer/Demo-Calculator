@@ -1,0 +1,51 @@
+*{
+    box-sizing: border-box;
+    margin: 0%;
+}
+
+.contaner{
+    position: absolute;
+    top: 10%;
+    left: 35%;
+    /* left: 35%; */
+    width: 350px;
+    height: 560px;
+    background: rgb(219, 219, 219);
+    border: green 2px solid;
+}
+.contaner h2{
+    text-align: center;
+    padding: 10px;
+    color: rgb(55, 176, 252);
+    font-size: 2.2rem;
+}
+
+.display input{
+    text-align: center;
+    width: 100%;
+    height: 50px;
+    font-size: 1.7rem;
+    border:inset;
+    outline: none;
+    
+}
+h4{
+    color:rgb(55, 176, 252) ;
+    text-align: center;
+}
+
+table{
+    position:absolute ;
+    width: 100%;
+    height:80%;
+    /* border: green 2px solid; */
+}
+
+button{
+    width: 60px;
+    height: 50px;
+    font-size: 2rem;
+    margin-top: 0%;
+    margin-bottom: 0%;
+    margin-left: 10px;
+}
